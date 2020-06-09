@@ -34,7 +34,7 @@ body {
 /* LAYOUT */
 .container {
 	max-width: 110rem;
-	margin: 10rem auto;
+	margin: 12rem auto 8rem auto;
 }
 .section-intro {
 	display: flex;
